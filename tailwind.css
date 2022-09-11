@@ -1,3 +1,54 @@
+.mx-4 {
+  margin-left: 1rem;
+  margin-right: 1rem
+}
+
+.mr-2 {
+  margin-right: 0.5rem
+}
+
+.h-7 {
+  height: 1.75rem
+}
+
+.w-7 {
+  width: 1.75rem
+}
+
+.flex-row {
+  flex-direction: row
+}
+
+.items-center {
+  align-items: center
+}
+
+.rounded-full {
+  border-radius: 9999px
+}
+
+.bg-gray-300 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(209 213 219 / var(--tw-bg-opacity))
+}
+
+.p-4 {
+  padding: 1rem
+}
+
+.pt-4 {
+  padding-top: 1rem
+}
+
+.pb-3 {
+  padding-bottom: 0.75rem
+}
+
+.text-xs {
+  font-size: 0.75rem;
+  line-height: 1rem
+}
+
 .text-xl {
   font-size: 1.25rem;
   line-height: 1.75rem
@@ -5,24 +56,4 @@
 
 .font-bold {
   font-weight: 700
-}
-
-.text-red-500 {
-  --tw-text-opacity: 1;
-  color: rgb(239 68 68 / var(--tw-text-opacity))
-}
-
-.text-blue-400 {
-  --tw-text-opacity: 1;
-  color: rgb(96 165 250 / var(--tw-text-opacity))
-}
-
-.text-red-600 {
-  --tw-text-opacity: 1;
-  color: rgb(220 38 38 / var(--tw-text-opacity))
-}
-
-.text-gray-600 {
-  --tw-text-opacity: 1;
-  color: rgb(75 85 99 / var(--tw-text-opacity))
 }
